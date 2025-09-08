@@ -1,1 +1,2 @@
-Heloo GitHub
+Hello GitHub
+My first repository file for zde
